@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657119701676",
+    "project_id": "sns-app-90668",
+    "storage_bucket": "sns-app-90668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657119701676:android:843f9fb81fe88b9ef84d09",
+        "android_client_info": {
+          "package_name": "com.satoeri.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIbw0DdkG0pcHOjW6-40KH2gBMkwBiFdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
